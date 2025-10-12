@@ -1,0 +1,33 @@
+{
+  "name": "quantumleap-ai-stock-prediction",
+  "version": "1.0.0",
+  "description": "Advanced AI-powered stock market prediction platform with 99%+ accuracy",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "recharts": "^2.8.0",
+    "lucide-react": "^0.294.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

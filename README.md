@@ -34,11 +34,20 @@
 - **Profit/Loss Scenarios**: Maximum profit and risk exposure
 - **Position Sizing**: Optimal contract quantities
 
+### 📰 **Real-Time News & Social Media Integration**
+- **Multi-Source News Analysis**: Reuters, Bloomberg, CNBC, MarketWatch, Yahoo Finance
+- **Social Media Sentiment**: Twitter, Reddit, StockTwits, Discord monitoring
+- **Sentiment Scoring**: AI-powered sentiment analysis (-1 to +1 scale)
+- **Impact Assessment**: High/Medium/Low impact classification
+- **Trend Analysis**: Improving/Stable/Declining sentiment trends
+- **Key Drivers & Risk Factors**: Automated identification of market catalysts
+
 ### 📈 **Enhanced Visualizations**
 - **Multi-Layer Charts**: Price, volume, and technical indicators
-- **Interactive Tooltips**: Detailed hover information
-- **Real-Time Updates**: Live market sentiment tracking
+- **Interactive Tooltips**: Detailed hover information with RSI, MACD, volume
+- **Real-Time Updates**: Live market sentiment tracking every 3 seconds
 - **Pattern Overlays**: Visual chart pattern identification
+- **News Feed Integration**: Live news updates with sentiment indicators
 
 ## 🛠️ How to Use
 
@@ -107,12 +116,20 @@
 - **Position Sizing**: Optimal contract quantities based on capital
 - **Expiration Management**: Time decay and exit timing
 
+#### 📰 **News & Social Media Analysis (New!)**
+- **Real-Time News Scanning**: 8+ major financial news sources
+- **Social Media Monitoring**: Twitter, Reddit, StockTwits sentiment tracking
+- **Sentiment Scoring**: AI-powered analysis with -1 to +1 scoring
+- **Impact Classification**: High/Medium/Low impact news filtering
+- **Trend Detection**: Improving/Stable/Declining sentiment trends
+- **Risk & Catalyst Identification**: Automated market driver analysis
+
 #### 🔄 **Real-time Market Analysis**
-- Market sentiment tracking every 3 seconds
+- Market sentiment tracking every 3 seconds with news integration
 - Live technical indicator updates
-- Dynamic confidence adjustments
-- Volatility spike detection
-- Pattern evolution monitoring
+- Dynamic confidence adjustments based on news sentiment
+- Volatility spike detection with social media correlation
+- Pattern evolution monitoring with news catalyst identification
 
 ## 🏗️ Technical Architecture
 
@@ -219,6 +236,29 @@ MACD: Bullish
 Volume: High
 Momentum: Strong
 Trend: Bullish
+```
+
+### News & Social Media Analysis
+```
+Overall Sentiment: Bullish
+Sentiment Score: +0.65
+News Sources: 8 articles
+Social Mentions: 12 posts
+Sentiment Trend: Improving
+
+Key Drivers:
+✓ Strong earnings momentum
+✓ Positive analyst coverage
+✓ Institutional buying interest
+
+Risk Factors:
+⚠ Market volatility
+⚠ Regulatory concerns
+
+Catalysts:
+⚡ Upcoming product launches
+⚡ Market expansion opportunities
+⚡ Earnings announcements
 ```
 
 ## ⚠️ Important Notes

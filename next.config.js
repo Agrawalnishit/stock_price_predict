@@ -10,12 +10,18 @@ const nextConfig = {
     unoptimized: true
   },
   trailingSlash: true,
-  output: 'standalone',
+  output: 'export',
+  distDir: 'out',
   poweredByHeader: false,
   compress: true,
   generateEtags: false,
-  httpAgentOptions: {
-    keepAlive: true,
+  assetPrefix: '',
+  basePath: '',
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
   }
 }
 

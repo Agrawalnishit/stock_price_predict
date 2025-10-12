@@ -7,7 +7,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next build && next export",
+    "deploy": "npm run build",
+    "analyze": "cross-env ANALYZE=true next build"
   },
   "dependencies": {
     "react": "^18.2.0",

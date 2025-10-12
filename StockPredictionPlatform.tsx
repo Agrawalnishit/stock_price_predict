@@ -546,9 +546,21 @@ const StockPredictionPlatform: NextPage = () => {
     <>
       <Head>
         <title>QuantumLeap AI | Advanced Stock Prediction Platform</title>
-        <meta name="description" content="99%+ accuracy AI-powered stock market prediction and analysis with real-time insights." />
+        <meta name="description" content="99%+ accuracy AI-powered stock market prediction and analysis with real-time insights. Professional trading platform for options, scalping, and long-term investing." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="keywords" content="stock prediction, AI trading, options trading, scalping, technical analysis, stock market, investment, trading platform" />
+        <meta name="author" content="QuantumLeap AI" />
+        <meta property="og:title" content="QuantumLeap AI - Advanced Stock Prediction Platform" />
+        <meta property="og:description" content="Professional AI-powered trading platform with 99%+ accuracy. Supports options trading, scalping, and long-term investing strategies." />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="/og-image.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="QuantumLeap AI - Stock Prediction Platform" />
+        <meta name="twitter:description" content="99%+ accuracy AI trading platform for all investment strategies" />
         <link rel="icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#1e293b" />
       </Head>
 
       <main className="bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 min-h-screen text-white p-4 sm:p-6 lg:p-8 font-sans">

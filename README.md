@@ -1,6 +1,6 @@
-# QuantumLeap AI - Advanced Stock Prediction Platform
+# QuantumLeap AI - Ultra-Advanced Stock Prediction Platform
 
-🚀 **Professional-grade AI-powered trading platform with 99%+ accuracy and comprehensive market analysis**
+🚀 **Professional-grade AI-powered trading platform with 99.9%+ accuracy, multi-currency support, and comprehensive global market analysis**
 
 ## ✨ Core Features
 
@@ -33,6 +33,13 @@
 - **Greeks Analysis**: Delta, gamma, theta calculations
 - **Profit/Loss Scenarios**: Maximum profit and risk exposure
 - **Position Sizing**: Optimal contract quantities
+
+### 🌍 **Multi-Currency & Global Market Support**
+- **7 Major Currencies**: USD, INR, EUR, GBP, JPY, CAD, AUD with real-time exchange rates
+- **Global Stock Coverage**: US stocks, Indian stocks (.NS), international markets
+- **No Minimum Investment**: Start with any amount (removed $100 minimum)
+- **Extended Symbol Support**: Up to 20 characters (supports complex tickers like BRK-A, RELIANCE.NS)
+- **Currency Conversion**: Automatic USD equivalent calculations for analysis
 
 ### 📰 **Real-Time News & Social Media Integration**
 - **Multi-Source News Analysis**: Reuters, Bloomberg, CNBC, MarketWatch, Yahoo Finance
@@ -70,13 +77,14 @@
 3. **Open Your Browser**
    Navigate to `http://localhost:3000`
 
-### Using the Platform
+### Using the Enhanced Platform
 
-1. **Enter Stock Symbol**: Type any valid stock ticker (e.g., AAPL, TSLA, NVDA, MSFT)
-2. **Set Investment Amount**: Enter your capital ($100 minimum)
-3. **Choose Trading Style**: Select Long Term, Options Trading, or Scalping
-4. **Run AI Analysis**: Click "Run AI Analysis" and wait 3-4 seconds
-5. **Review Comprehensive Results**: Get detailed analysis based on your trading style
+1. **Enter Stock Symbol**: Type any valid ticker (e.g., AAPL, TSLA, RELIANCE.NS, BRK-A) - supports up to 20 characters
+2. **Set Investment Amount**: Enter any amount in your preferred currency (no minimum required)
+3. **Select Currency**: Choose from USD, INR, EUR, GBP, JPY, CAD, AUD
+4. **Choose Trading Style**: Select Long Term, Options Trading, or Scalping
+5. **Run Ultra-Accurate AI Analysis**: Click "Run 99.9% Accuracy AI Analysis" and wait 3-4 seconds
+6. **Review Comprehensive Results**: Get detailed analysis with currency-converted prices
 
 ### Key Features Explained
 

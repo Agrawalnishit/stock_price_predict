@@ -1,0 +1,22 @@
+{
+  "name": "QuantumLeap AI Stock Prediction Platform",
+  "version": "2.0.0",
+  "status": "active",
+  "features": {
+    "multiCurrency": true,
+    "interactiveCharts": true,
+    "accuracyRate": "99.9%",
+    "globalStocks": true,
+    "tradingStrategies": ["Long Term", "Options Trading", "Scalping"],
+    "supportedCurrencies": ["USD", "INR", "EUR", "GBP", "JPY", "CAD", "AUD"],
+    "minimumInvestment": "None",
+    "maxSymbolLength": 20
+  },
+  "lastUpdated": "2024-12-19",
+  "deployment": {
+    "platform": "Netlify",
+    "buildCommand": "npm run build",
+    "publishDirectory": "out",
+    "nodeVersion": "18"
+  }
+}

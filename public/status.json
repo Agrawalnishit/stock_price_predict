@@ -1,16 +1,19 @@
 {
-  "name": "QuantumLeap AI Stock Prediction Platform",
-  "version": "2.0.0",
+  "name": "Market Analysis - Real-Time Stock Analysis Platform",
+  "version": "3.0.0",
   "status": "active",
   "features": {
+    "realTimeStockData": true,
+    "investmentRecommendations": true,
     "multiCurrency": true,
     "interactiveCharts": true,
-    "accuracyRate": "99.9%",
+    "riskAssessment": true,
     "globalStocks": true,
     "tradingStrategies": ["Long Term", "Options Trading", "Scalping"],
     "supportedCurrencies": ["USD", "INR", "EUR", "GBP", "JPY", "CAD", "AUD"],
     "minimumInvestment": "None",
-    "maxSymbolLength": 20
+    "maxSymbolLength": 20,
+    "dataSources": ["Grow App", "Yahoo Finance", "Alpha Vantage", "Polygon.io"]
   },
   "lastUpdated": "2024-12-19",
   "deployment": {

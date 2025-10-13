@@ -1,6 +1,6 @@
-# QuantumLeap AI - Ultra-Advanced Stock Prediction Platform
+# Market Analysis - Real-Time Stock Analysis & Investment Platform
 
-🚀 **Professional-grade AI-powered trading platform with 99.9%+ accuracy, multi-currency support, and comprehensive global market analysis**
+🚀 **Professional real-time stock market analysis with live prices, investment recommendations, and multi-currency support for global investors**
 
 ## ✨ Core Features
 
@@ -33,6 +33,14 @@
 - **Greeks Analysis**: Delta, gamma, theta calculations
 - **Profit/Loss Scenarios**: Maximum profit and risk exposure
 - **Position Sizing**: Optimal contract quantities
+
+### 📊 **Real-Time Stock Data & Investment Recommendations**
+- **Live Stock Prices**: Real-time data from multiple sources including Grow app, Yahoo Finance, Alpha Vantage
+- **Current Market Data**: Live prices, day changes, volume, market cap, P/E ratios, 52-week highs/lows
+- **Smart Investment Suggestions**: AI-powered recommendations based on your capital and risk profile
+- **Risk Assessment**: Automatic risk level classification (Low/Medium/High)
+- **Portfolio Allocation**: Conservative, moderate, and aggressive investment strategies
+- **Expected Returns**: 1-year, 3-year, and 5-year return projections
 
 ### 🌍 **Multi-Currency & Global Market Support**
 - **7 Major Currencies**: USD, INR, EUR, GBP, JPY, CAD, AUD with real-time exchange rates
@@ -77,14 +85,14 @@
 3. **Open Your Browser**
    Navigate to `http://localhost:3000`
 
-### Using the Enhanced Platform
+### Using the Market Analysis Platform
 
 1. **Enter Stock Symbol**: Type any valid ticker (e.g., AAPL, TSLA, RELIANCE.NS, BRK-A) - supports up to 20 characters
 2. **Set Investment Amount**: Enter any amount in your preferred currency (no minimum required)
 3. **Select Currency**: Choose from USD, INR, EUR, GBP, JPY, CAD, AUD
 4. **Choose Trading Style**: Select Long Term, Options Trading, or Scalping
-5. **Run Ultra-Accurate AI Analysis**: Click "Run 99.9% Accuracy AI Analysis" and wait 3-4 seconds
-6. **Review Comprehensive Results**: Get detailed analysis with currency-converted prices
+5. **Get Real-Time Analysis**: Click "Get Real-Time Analysis & Investment Advice" 
+6. **Review Live Data & Recommendations**: Get current stock prices, investment suggestions, and risk assessments
 
 ### Key Features Explained
 
